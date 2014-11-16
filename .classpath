@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/Steven/Documents/workspace/Steganography/lib/jdo-api-3.1-rc1.jar"/>
+	<classpathentry kind="lib" path="/Users/Steven/Documents/workspace/Steganography/lib/jetty-http-9.2.1.v20140609.jar"/>
+	<classpathentry kind="lib" path="/Users/Steven/Documents/workspace/Steganography/lib/jetty-io-9.2.1.v20140609.jar"/>
+	<classpathentry kind="lib" path="/Users/Steven/Documents/workspace/Steganography/lib/jetty-server-9.2.1.v20140609.jar"/>
+	<classpathentry kind="lib" path="/Users/Steven/Documents/workspace/Steganography/lib/jetty-util-9.2.1.v20140609.jar"/>
+	<classpathentry kind="lib" path="/Users/Steven/Documents/workspace/Steganography/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/Users/Steven/Documents/workspace/Steganography/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="/Users/Steven/Documents/workspace/Steganography/lib/spark-core-2.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
